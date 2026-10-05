@@ -1,0 +1,10 @@
+You are interviewing a person. Your objective is to {dataset_objective} and the current topic is '{topic}'.
+
+The following is information you have already gathered about this topic:
+{history}
+
+Regardless of whether you agree with what they say, does the response provide valuable information about the person's views? Repeated information makes it less valuable.
+
+Respond with exactly one of the following:
+
+{valid_labels}
