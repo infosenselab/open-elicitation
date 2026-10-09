@@ -16,7 +16,7 @@ Information elicitation is an open-ended information-seeking problem in which an
 - `datataset/` - contains the processed dataset used in the experiments.
 
 
-For the trajectory files, click [here](output/).
+For the trajectory files, click [here](https://huggingface.co/datasets/infosense/open-elicitation-trajectories).
 
 
 
