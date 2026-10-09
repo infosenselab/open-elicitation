@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this resource in your projects, please cite the following paper."
+title: "On Open-Ended Information Seeking for Information Elicitation Agents"
+authors:
+  - family-names: "De Lima"
+    given-names: "Victor"
+  - family-names: "Yang"
+    given-names: "Grace Hui"
+
+
+preferred-citation:
+  type: misc
+  title: "On Open-Ended Information Seeking for Information Elicitation Agents"
+  authors:
+  - family-names: "De Lima"
+    given-names: "Victor"
+  - family-names: "Yang"
+    given-names: "Grace Hui"
+  year: 2026
+  doi: "10.48550/arXiv.2610.07509"
+  url: "https://arxiv.org/abs/2610.07509"
+  collection-title: "arXiv"

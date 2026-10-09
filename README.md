@@ -39,3 +39,20 @@ For evaluations with multiple models, complete the group required by the file in
 - Run diagnostic evaluations. E.g., `open_elicitation/evaluation/trajectory_evaluate_wa_metrics.ipynb`.
 
 See each file for sample usage instructions listed at the top.
+
+
+
+
+## Citing this work.
+
+If you use this resource in your projects, please cite the following paper.
+
+```bibtex
+@misc{de_lima_open-ended_2026,
+author = {De Lima, Victor and Yang, Grace Hui},
+doi = {10.48550/arXiv.2610.07509},
+title = {{On Open-Ended Information Seeking for Information Elicitation Agents}},
+url = {https://arxiv.org/abs/2610.07509},
+year = {2026}
+}
+```
